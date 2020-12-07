@@ -3,5 +3,5 @@ Android APP To Recognize Text And Display Text Along With The Speech Output
 
 ## Dependencies
 Add Google Vision Services in the module gradle.
-Google Serivices I Used In my Project - 'com.google.android.gms:play-services-vision:20.1.2'
+Google Services I Used In my Project - 'com.google.android.gms:play-services-vision:20.1.2'
 
